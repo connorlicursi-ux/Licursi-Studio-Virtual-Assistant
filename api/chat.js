@@ -3,7 +3,7 @@
 
 const ALLOWED_ORIGINS = [
   'https://licursistudio.com',
-    'https://licursistudio.lovable.app',',
+    'https://licursistudio.lovable.app',
   
 ];
 
