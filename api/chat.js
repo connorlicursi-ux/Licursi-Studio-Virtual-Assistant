@@ -2,9 +2,9 @@
 // Protections: API key hidden, rate limiting, token budget, domain lock, input validation
 
 const ALLOWED_ORIGINS = [
-  'https://pridelandscaping.lovable.app',
-  'https://pride-yardworks.lovable.app',
-  'https://pridelandscaping.com',
+  'https://licursistudio.com',
+    'https://licursistudio.lovable.app',',
+  
 ];
 
 const MAX_INPUT_CHARS = 400;
