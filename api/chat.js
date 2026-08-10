@@ -1,4 +1,4 @@
-// Pride Landscaping AI Assistant — Vercel Serverless Proxy
+// Licursi Studios AI Assistant — Vercel Serverless Pro
 // Protections: API key hidden, rate limiting, token budget, domain lock, input validation
 
 const ALLOWED_ORIGINS = [
